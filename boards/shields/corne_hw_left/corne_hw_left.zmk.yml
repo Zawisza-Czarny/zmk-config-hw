@@ -1,6 +1,6 @@
 file_format: "1"
 id: corne_hw_left
-name: Corne HW Left
+name: Baikal Left
 type: shield
 url: https://github.com/foostan/crkbd
 requires: [pro_micro]
