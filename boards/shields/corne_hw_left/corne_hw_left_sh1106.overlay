@@ -42,7 +42,7 @@
         status = "okay";
         reg = <0x3c>;
         width = <128>; 
-        height = <64>;      /* SH1106 is 132x64 internally */
+        height = <32>;      /* SH1106 is 132x64 internally */
         page-offset = <0>; 
         display-offset = <0>;
     };
